@@ -3,6 +3,7 @@ public class testJava {
   
   System.out.println("hello jenkins");
     System.out.println("testing");
+    System.out.println("hi");
   }
 
 }
